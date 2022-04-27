@@ -1,9 +1,9 @@
 # Auror-Project-Challenge-1
 Auror Project Challenge 1 - Automated Active Directory Lab Deployment
 
-![](LabDiagram.png)
+![](LabDiagram.jpg)
 
-Challenge Link - [Challenge] (https://docs.google.com/document/d/1Zk_O_JpFQk5JQRGF9CAC0plml3ua3hCQ5VBDLxE2GQI/edit?usp=sharing)
+Challenge Link - [Challenge](https://docs.google.com/document/d/1Zk_O_JpFQk5JQRGF9CAC0plml3ua3hCQ5VBDLxE2GQI/edit?usp=sharing)
 Challenge Link - [Challenge](https://docs.google.com/document/d/1Zk_O_JpFQk5JQRGF9CAC0plml3ua3hCQ5VBDLxE2GQI/edit?usp=sharing)
 
 Blog corresponding to the lab setup - [Blog](https://sbasu7241.medium.com/auror-project-challenge-1-automated-active-directory-lab-deployment-53e323445f4d)
