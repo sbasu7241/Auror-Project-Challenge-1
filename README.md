@@ -6,6 +6,7 @@ Challenge Link - [Challenge](https://docs.google.com/document/d/1Zk_O_JpFQk5JQRG
 Blog corresponding to the lab setup - [Blog](https://sbasu7241.medium.com/auror-project-challenge-1-automated-active-directory-lab-deployment-53e323445f4d)
 
 ### Lab Setup
+---------------
 
 1. Git clone the repo
 2. Setup Azure CLI
@@ -28,6 +29,7 @@ Blog corresponding to the lab setup - [Blog](https://sbasu7241.medium.com/auror-
     terraform apply
     ```
 ### References
+----------------
 
 * https://github.com/chvancooten/CloudLabsAD
 * https://github.com/clong/DetectionLab
