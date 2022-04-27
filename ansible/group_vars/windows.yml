@@ -1,0 +1,9 @@
+ansible_user: windowsadmin
+ansible_password: akevX:ZWnc6V8&-x
+ansible_connection: winrm
+ansible_port: 5986
+ansible_winrm_server_cert_validation: ignore
+ansible_winrm_transport: basic
+domain_name: "aurora.local"
+reverse_dns_zone: "10.0.0.0/24"
+

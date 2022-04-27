@@ -1,0 +1,14 @@
+# Prepare the dc
+- hosts: dc
+  roles:
+    - domain
+    - dc
+  vars_files:
+    - ./group_vars/windows.yml
+
+# Prepare the windows server 2019
+- hosts: windowserver2019
+  roles:
+    - server1
+  vars_files:
+    - ./group_vars/windows.yml

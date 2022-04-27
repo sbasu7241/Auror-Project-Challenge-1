@@ -1,0 +1,7 @@
+---
+dc:
+  hosts:
+    10.0.0.9
+windowserver2019:
+  hosts:
+    10.0.0.19

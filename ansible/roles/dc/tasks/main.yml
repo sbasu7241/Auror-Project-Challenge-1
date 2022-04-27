@@ -1,0 +1,13 @@
+
+- name: "Create a user"
+  win_domain_user:
+    name: "Adam"
+    upn: "adam@aurora.local"    
+    password: "Pass@123"
+
+# Track AD state
+- name: Touch file to track AD state
+  win_file:
+    path: C:\Windows\aurora.txt
+    state: touch
+
